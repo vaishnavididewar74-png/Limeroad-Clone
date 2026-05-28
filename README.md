@@ -1,1 +1,5 @@
+LimeRoad Clone Webpage is a frontend web development project created using HTML5 and External CSS. This project is inspired by the e-commerce navigation, user feed layouts, and online marketplace styling of the LimeRoad lifestyle website. The webpage demonstrates different CSS concepts such as hover effects, simple selectors, class and ID selectors, combinators, custom container borders, explicit layout positioning properties, overflow handling systems, and multi-column display flex alignments across paragraph and list blocks.
+
+This project helps in understanding how layout positioning systems, dropdown navigation menus, absolute image placement matrices, overflow axes, and display flex alignment mechanics work in modern frontend web design. External CSS is used via index.css to manage structural dimensions, layout layers, and general code readability. Google Fonts and Remix Icons are also integrated to polish the typography and premium iconography appearance of the webpage.
+
 Live Demo: https://vaishnavididewar74-png.github.io/Limeroad-Clone/
